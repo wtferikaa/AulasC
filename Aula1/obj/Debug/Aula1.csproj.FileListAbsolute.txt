@@ -1,0 +1,139 @@
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\ApplicationInsights.config
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\roslyn\csc.exe
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\roslyn\vbc.exe
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\roslyn\VBCSCompiler.exe
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Aula1.dll.config
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Aula1.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Aula1.pdb
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Microsoft.AI.Web.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Microsoft.ApplicationInsights.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\System.Web.Helpers.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\System.Web.Mvc.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\System.Web.Razor.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\System.Web.Webpages.Deployment.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\System.Web.Webpages.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\System.Web.Webpages.Razor.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Microsoft.AI.Web.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Microsoft.ApplicationInsights.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\System.Web.Razor.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\System.Web.Webpages.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\System.Web.Webpages.Deployment.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\System.Web.Webpages.Razor.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\System.Web.Helpers.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\bin\System.Web.Mvc.xml
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\obj\Debug\Aula1.csprojResolveAssemblyReference.cache
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\obj\Debug\Aula1.dll
+c:\users\rb-lab105-04\documents\visual studio 2015\Projects\Aula1\Aula1\obj\Debug\Aula1.pdb
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\ApplicationInsights.config
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\roslyn\csc.exe
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\roslyn\vbc.exe
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\roslyn\VBCSCompiler.exe
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Aula1.dll.config
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Aula1.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Aula1.pdb
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Microsoft.AI.Web.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\System.Web.Helpers.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\System.Web.Mvc.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\System.Web.Razor.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\System.Web.Webpages.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\System.Web.Webpages.Razor.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Microsoft.AI.Web.xml
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\System.Web.Razor.xml
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\System.Web.Webpages.xml
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\System.Web.Webpages.Razor.xml
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\System.Web.Helpers.xml
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\System.Web.Mvc.xml
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\obj\Debug\Aula1.csprojResolveAssemblyReference.cache
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\obj\Debug\Aula1.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\obj\Debug\Aula1.pdb
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\EntityFramework.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\EntityFramework.SqlServer.dll
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\EntityFramework.xml
+C:\Users\RB-LAB105-04\Downloads\Aula1\Aula1\Aula1\bin\EntityFramework.SqlServer.xml
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\ApplicationInsights.config
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Aula1.dll.config
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Aula1.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Aula1.pdb
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\EntityFramework.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\EntityFramework.SqlServer.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.AI.Web.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\System.Web.Helpers.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\System.Web.Mvc.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\System.Web.Razor.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\System.Web.Webpages.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\System.Web.Webpages.Razor.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\EntityFramework.xml
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\EntityFramework.SqlServer.xml
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.AI.Web.xml
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\System.Web.Razor.xml
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\System.Web.Webpages.xml
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\System.Web.Webpages.Razor.xml
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\System.Web.Helpers.xml
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\System.Web.Mvc.xml
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\obj\Debug\Aula1.csprojResolveAssemblyReference.cache
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\obj\Debug\Aula1.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\obj\Debug\Aula1.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\obj\Debug\Aula1.pdb
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Erika\Desktop\Opet\SegundoSemestre\C#\Aula1\Aula1\bin\System.Diagnostics.DiagnosticSource.xml
