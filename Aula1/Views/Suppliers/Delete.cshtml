@@ -1,40 +1,60 @@
-﻿@model Aula1.Controllers.Supplier
+﻿@model Aula1.Models.Supplier
 
 @{
     Layout = "~/Views/Shared/_Layout.cshtml";
-    ViewBag.Title = "Visualizando	detalhes	de	um	supplier";
+    ViewBag.Title = "Visualizando detalhes de fabricante a ser removido";
 }
 
-@if	(@TempData["Message"]	!=	null)	{
-    <div	class="alert	alert-success"	role="alert">
-    @TempData["Message"]	
-        </div>
-}
+<h2>Visualizando detalhes de frabricante a ser removido</h2>
 
-
-<div class="panel	panel-primary">
-    <div class="panel-heading">
-        Dados	do	supplier a	ser	removido
+<div class="form-group">
+    @Html.LabelFor(model => model.Name)
+    <div class="input-group">
+        <span class="input-group-addon">
+            <i class="glyphicon	glyphicon-user"></i>
+        </span>
+        @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
     </div>
-    <div class="panel-body">
-        <div class="form-group">
-            @Html.LabelFor(model => model.Name)<br />
-            <div class="input-group">
-                <span class="input-group-addon">
-                    <i class="glyphicon	glyphicon-user">
-                    </i>
-                </span>
-                @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control", disabled = "disabled" } })
+</div>
+<a href="#" class="btn btn-primary" data-toggle="modal"
+   data-target="#deleteConfirmationModal">Remover</a>
+@Html.ActionLink("Retornar	para a listagem", "Index", null, new { @class = "btn btn-success" })
+
+<div class="modal fade" id="deleteConfirmationModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-ELTEismiss
+                        "modal" aria-hidden="true">
+                    &times;
+                </button>
+                <h4 class="modal-title">Confirmação	de	exclusão de Categoria</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    Você está prestes a remover o Fabricante @Model.Name.ToUpper() do cadastro.
+                </p>
+                <p>
+                    <strong>
+                        Você está certo	que	deseja	prosseguir?
+                    </strong>
+                </p>
+                @using (Html.BeginForm("Delete", "Suppliers", FormMethod.Post, new { @id = "delete-form", role = "form" }))
+                {
+                    @Html.HiddenFor(a => a.SupplierId)
+                    @Html.AntiForgeryToken()
+                }
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" onclick="$('#delete-form').submit();">
+                    Sim, exclua	este fabricante.
+                </button>
+                <button type="button" class="btn btn-primary"
+                        data-dismiss="modal">
+                    Não, não exclua	este fabricante.
+                </button>
             </div>
         </div>
-    </div>
-    <div class="panel-footer	panel-info">
-        @using (Html.BeginForm())
-        {
-            @Html.AntiForgeryToken()
-            <input type="submit" value="Remover supplier" class="btn	btn-danger" />
-            @Html.ActionLink("Retornar	para	a	listagem", "Index", null, new { @class = "btn	btn-info" })
-        }
     </div>
 </div>
 
@@ -42,7 +62,7 @@
     <script type="text/javascript">
         $(document).ready(function () {
             $('li').removeClass("active");
-            $('#liSuppliers').addClass("active");
+            $('#liCategories').addClass("active");
         });
     </script>
 }

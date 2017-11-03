@@ -20,5 +20,7 @@ namespace Aula1.Context
 
         public DbSet<Supplier> Suppliers { get; set; }
 
+        public DbSet<Product> Products { get; set; }
+
     }
 }
