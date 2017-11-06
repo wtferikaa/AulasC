@@ -24,7 +24,7 @@ namespace Aula1.Controllers
         }
 
 
-        #region Create
+
         public ActionResult Create()
         {
             return View();
@@ -38,10 +38,7 @@ namespace Aula1.Controllers
 
             return RedirectToAction("Index");
         }
-        #endregion
 
-
-        #region Edit
         public ActionResult Edit(long? id)
         {
             if (!id.HasValue)
@@ -73,10 +70,7 @@ namespace Aula1.Controllers
             return View(categories);
 
         }
-        #endregion
 
-
-        #region Details
         public ActionResult Details(long? id)
         {
             if (!id.HasValue)
@@ -93,11 +87,7 @@ namespace Aula1.Controllers
 
             return View(categories);
         }
-        #endregion
 
-
-        #region Delete
-        [HttpGet]
         public ActionResult Delete(long? id)
         {
             if (id == null)
@@ -120,25 +110,16 @@ namespace Aula1.Controllers
 
         public ActionResult Delete(long id)
         {
-            try
-            {
-                Category category = _context.Categories.Find(id);
-                _context.Categories.Remove(category);
-                _context.SaveChanges();
-                TempData["Message"] = "Categoria " + category.Name.ToUpper() + " foi removida";
-                return RedirectToAction("Index");
-            }
 
-            catch
-            {
-                return View();
-            }
-           
+            Category category = _context.Categories.Find(id);
+            _context.Categories.Remove(category);
+            _context.SaveChanges();
+            TempData["Message"] = "Categoria " + category.Name.ToUpper() + " foi removida";
+            return RedirectToAction("Index");
+
+
 
         }
-        #endregion
-
 
     }
-
 }

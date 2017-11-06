@@ -118,18 +118,13 @@ namespace Aula1.Controllers
         [HttpPost]
         public ActionResult Delete(long id)
         {
-            try
-            {
+            
                 Product product = _context.Products.Find(id);
                 _context.Products.Remove(product);
                 _context.SaveChanges();
                 TempData["Message"] = "Produto	" + product.Name.ToUpper() + "	foi	removido";
                 return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
+            
             }
         }
     }
-}

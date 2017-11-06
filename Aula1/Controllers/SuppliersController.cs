@@ -19,7 +19,6 @@ namespace Aula1.Controllers
             return View(_context.Suppliers.OrderBy(s => s.Name));
         }
 
-        #region Create
         public ActionResult Create()
         {
             return View();
@@ -33,10 +32,10 @@ namespace Aula1.Controllers
 
             return RedirectToAction("Index");
         }
-        #endregion
 
 
-        #region Edit
+
+
         public ActionResult Edit(long? id)
         {
             if (!id.HasValue)
@@ -68,10 +67,10 @@ namespace Aula1.Controllers
             return View(supplier);
 
         }
-        #endregion
 
 
-        #region Details
+
+
         public ActionResult Details(long? id)
         {
             if (!id.HasValue)
@@ -88,11 +87,11 @@ namespace Aula1.Controllers
 
             return View(supplier);
         }
-        #endregion
 
 
-        #region Delete
-        [HttpGet]
+
+
+
         public ActionResult Delete(long? id)
         {
             if (id == null)
@@ -115,23 +114,18 @@ namespace Aula1.Controllers
 
         public ActionResult Delete(long id)
         {
-            try
-            {
-                 Supplier supplier = _context.Suppliers.Find(id);
-                _context.Suppliers.Remove(supplier);
-                _context.SaveChanges();
-                TempData["Message"] = "Fabricante " + supplier.Name.ToUpper() + " foi removido";
-                return RedirectToAction("Index");
 
-            }
-            catch
-            {
+            Supplier supplier = _context.Suppliers.Find(id);
+            _context.Suppliers.Remove(supplier);
+            _context.SaveChanges();
+            TempData["Message"] = "Supplier " + supplier.Name.ToUpper() + " foi removido";
+            return RedirectToAction("Index");
 
-                return View();
 
-            }
-            #endregion
 
         }
+
+
+
     }
 }
